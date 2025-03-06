@@ -1,6 +1,6 @@
 # 📝 PDF Translator 🌍
 
-> Turn Chinese PDFs into English with AI-powered translation! Perfect for presentations, documents, and research papers.
+> Turn Chinese PDFs into English with AI-powered translation! Perfect for presentations, documents, and research papers. Come and try it!
 
 ## ✨ Features
 
