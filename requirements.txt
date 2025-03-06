@@ -1,0 +1,6 @@
+Pillow>=9.0.0
+openai
+PyMuPDF>=1.21.1
+ipython
+gradio>=4.13.0
+reportlab>=3.6.0
